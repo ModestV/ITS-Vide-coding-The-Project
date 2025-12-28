@@ -1,0 +1,27 @@
+# Основные зависимости для суммаризации
+transformers==4.30.0
+torch==2.0.1
+sentencepiece==0.1.99
+
+# Совместимость protobuf (обязательно для transformers)
+protobuf==3.20.3
+
+# Совместимость NumPy (обязательно для torch + transformers)
+numpy==1.26.4
+
+# Обработка текста и языков
+nltk==3.8.1
+langdetect==1.0.9
+razdel==0.5.0
+
+# Веб-интерфейс
+streamlit==1.32.0
+
+# Работа с PDF
+PyPDF2==3.0.1
+pdfplumber==0.11.1
+
+# Тестирование и проверка качества кода
+pytest==7.4.0
+flake8==6.1.0
+safety==2.3.5
