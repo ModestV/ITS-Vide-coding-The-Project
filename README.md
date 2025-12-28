@@ -1,5 +1,5 @@
 # Multilingual Learning Material Summarizer
-[![CI](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/tests.yml/badge.svg)](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/tests.yml)
+[![CI](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/tests.yml)
 
 ## Description
 This project provides an automated tool for creating abstractive summaries of educational materials in three languages: English, Russian, and German. It supports both short texts and long documents (PDF or TXT format), intelligently splits lengthy content into manageable chunks, and generates high-quality summaries while preserving key information and context. The project includes both a web interface (Streamlit) and a command-line interface for flexible usage.
