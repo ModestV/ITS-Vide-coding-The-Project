@@ -1,4 +1,3 @@
-```markdown
 # Multilingual Learning Material Summarizer
 [![CI](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/test.yml/badge.svg)](https://github.com/ModestV/ITS-Vide-coding-The-Project/actions/workflows/test.yml)
 
@@ -116,4 +115,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 ModestV
-```
